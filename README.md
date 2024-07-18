@@ -1,4 +1,4 @@
-# Free Bootstrap NAME & Utilities Collection
+# Free Bootstrap Embeds & Utilities Collection
 
 Create responsive video or images based on the width of the parent by creating an intrinsic ratio that scales on any device.
 
@@ -20,21 +20,21 @@ These components were built with a **free Material Design UI Kit for the latest 
 
  <h2 class="mb-4">Basic example</h2> 
 
- [![Bootstrap 5 NAME](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/utilities/embeds/#section-basic-example)
+ [![Bootstrap 5 Embeds](/assets/basic-example.png)](https://mdbootstrap.com/docs/standard/utilities/embeds/#section-basic-example)
 
  
  <hr class="my-5">
 
  <h2 class="mb-4">Aspect ratios</h2> 
 
- [![Bootstrap 5 NAME](/assets/aspect-ratios.png)](https://mdbootstrap.com/docs/standard/utilities/embeds/#section-aspect-ratios)
+ [![Bootstrap 5 Embeds](/assets/aspect-ratios.png)](https://mdbootstrap.com/docs/standard/utilities/embeds/#section-aspect-ratios)
 
  
  <hr class="my-5">
 
  <h2 class="mb-4">Custom ratios</h2> 
 
- [![Bootstrap 5 NAME](/assets/custom-ratios.png)](https://mdbootstrap.com/docs/standard/utilities/embeds/#section-custom-ratios)
+ [![Bootstrap 5 Embeds](/assets/custom-ratios.png)](https://mdbootstrap.com/docs/standard/utilities/embeds/#section-custom-ratios)
 
 
  
